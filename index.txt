@@ -46,14 +46,17 @@ and dedication to delivering efficient, scalable, and user-friendly products and
 
 Things I Like
 
-alt = video game icon
+alt = pc gaming icon
 Games I Like: Valorant, MineCraft, Stardew Valley
 
 alt = reading icon
 Book I'm Currently Reading: book title
 
-alt = tv icon
+alt = television icon
 Shows I'm Currently Watching: show titles
+
+alt = music icon
+Songs I'm Currently Obessessed With: song titles
 
 # resume
 
@@ -70,7 +73,16 @@ Experience
 
 Software Engineer
 2022 - 2023
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+• Primarily worked on the development and implementation of new and efficient automations, created example
+test cases, and configured test systems. Performed automated testing for test cases using the Cypress Testing
+Library
+• Automations and systems made available to 50+ corporate customers including large corporations and 200+
+internal Itential engineers
+• Composed detailed reports of tasks and projects, analyzed test results, and presented findings to managers
+and team leads
+• Proposed and designed low-level software architecture and participated in design reviews
+• Maintained fully automated GitLab CI/CD pipelines for code deployment
+• Actively participated in stand-ups and code reviews as part of an Agile/Scrum team
 
 My skills
 
@@ -78,16 +90,18 @@ Python
 90%
 Java
 80%
-JavaScript/JSONs
+JavaScript, JSONs, HTML/CSS
 70%
-HTML/CSS
-65%
-Git (Operation, GitLab, GitHub)
+React, Node.js
+60%
+Git (Operations, GitLab, GitHub)
 85%
 Docker
 70%
 APIs
 70%
+Agile/Scrum Methodologies
+90%
 
 
 

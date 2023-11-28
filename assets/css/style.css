@@ -23,12 +23,12 @@
 
   /* gradient */
 
-  --bg-gradient-onyx: linear-gradient(
+  --bg-gradient-sage-green: linear-gradient(
     to bottom right, 
-    hsl(240, 1%, 25%) 3%, 
-    hsl(0, 0%, 19%) 97%
+    hsl(120, 31%, 69%) 3%, 
+    hsl(134, 16%, 48%) 97%
   );
-  --bg-gradient-jet: linear-gradient(
+  --bg-gradient-sage-green: linear-gradient(
     to bottom right, 
     hsla(240, 1%, 18%, 0.251) 0%, 
     hsla(240, 2%, 11%, 0) 100%
@@ -68,6 +68,7 @@
   --light-gray: hsl(0, 0%, 84%);
   --light-gray-70: hsla(0, 0%, 84%, 0.7);
   --bittersweet-shimmer: hsl(0, 43%, 51%);
+  --sage-green: hsl(120, 47%, 90%);
 
   /**
    * typography
